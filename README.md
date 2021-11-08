@@ -17,9 +17,15 @@ example:
 request(POST): http://127.0.0.1:8000/
 body(JSON): {"https://link*that_you_want_to_short*.com"}
 
+![img](https://cloud-2ssva4obd-hack-club-bot.vercel.app/0image.png)
+(sample request)
+
 response => {"VaT23m2l8pDlEVn"}
 
-It will return a token and and now request to http://127.0.0.1:8000/VaT23m2l8pDlEVn will redirect to https://link*that_you_want_to_short*.com
+![img](https://cloud-2ehm6i89l-hack-club-bot.vercel.app/0image.png)
+(sample response)
+
+It will return a token and and now request to http://127.0.0.1:8000/VaT23m2l8pDlEVn will redirect to https://link_that_you_want_to_short.com
 
 ## Commands and Environemnts
 
