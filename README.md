@@ -33,3 +33,5 @@ It only expect a single environment variable, by the name of `CONNECTION_URL` {R
 
 example usage:
 `ROCKET_CONNECTION_URL=redis://connection_url:port_number cargo run `
+
+In the above example it is assumed that the nightly verion of Rust is being used!
