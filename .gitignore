@@ -1,2 +1,5 @@
 /target
 .env
+
+# run script
+run.sh
